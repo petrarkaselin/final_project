@@ -1,9 +1,10 @@
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![logo](https://github.com/petrarkaselin/final_project/blob/master/slides/ironhack_logo.png)
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![logo](https://github.com/petrarkaselin/final_project/blob/master/slides/ironhack_logo.png)
 
 ### Author: Tatyana Tarasova
 
 # Attrition prediction for **SAP SuccessFactors**
 **SAP** is a leading enterprise software company that provides integrated business solutions, including ERP (Enterprise Resource Planning), to help organizations streamline processes, manage data, and optimize business operations.
+
 **SAP SuccessFactors** is a cloud-based human capital management (HCM) suite offered by SAP, focusing on optimizing HR processes.3. It encompasses a range of modules such as payroll system, employee performance, learning management, on- and offboarding process and workforce analytics.
 
 ![successfactors](https://github.com/petrarkaselin/final_project/blob/master/slides/04.jpg)
@@ -12,6 +13,7 @@
 - Impact productivity, morale and costs.
 - The main reason of emplyee departures is voluntary termination. 
 - Helps by workforce planning, cost reduction, improving worplace culture. 
+
 ![reasons](https://github.com/petrarkaselin/final_project/blob/master/slides/08.jpg)
 
 #### Goal
@@ -19,6 +21,7 @@ The goal of the project was to create a presentation visualizing the new feature
 
 #### Object
 To create an algorithm that takes the employee data from the HCM database and gives a prediction, if the chosen emloyee can quit in the near future.
+
 ![quit](https://github.com/petrarkaselin/final_project/blob/master/slides/05.jpg)
 
 #### Dataset: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
