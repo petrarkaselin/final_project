@@ -1,4 +1,4 @@
-&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp;[![logo](https://github.com/petrarkaselin/final_project/blob/master/slides/ironhack_logo.png)]
+&emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; &emsp; ![logo](https://github.com/petrarkaselin/final_project/blob/master/slides/ironhack_logo.png)
 
 ### Author: Tatyana Tarasova
 
@@ -19,7 +19,7 @@ The goal of the project was to create a presentation visualizing the new feature
 
 #### Object
 To create an algorithm that takes the employee data from the HCM database and gives a prediction, if the chosen emloyee can quit in the near future.
-[![quit](https://github.com/petrarkaselin/final_project/blob/master/slides/05.jpg)]
+![quit](https://github.com/petrarkaselin/final_project/blob/master/slides/05.jpg)
 
 #### Dataset: [IBM HR Analytics Attrition Dataset](https://www.kaggle.com/datasets/pavansubhasht/ibm-hr-analytics-attrition-dataset)
 
